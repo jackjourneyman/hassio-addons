@@ -1,4 +1,4 @@
-name: HA Add-ons by nwithan8
+name: HA Add-ons
 udev: true
-url: https://github.com/nwithan8/hassio-addons
-maintainer: nwithan8
+url: https://github.com/jackjourneyman/hassio-addons
+maintainer: jackjourneyman
