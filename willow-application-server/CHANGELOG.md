@@ -1,3 +1,7 @@
+## 0.3.0.0 (2025-05-20)
+
+Forked. Changed internal urls to point to this repository.
+
 ## 0.2.0.4 (2024-02-07)
 
 #### Willow Application Server (Backend): [0.2.0](https://github.com/toverainc/willow-application-server/tree/0.2.0)
