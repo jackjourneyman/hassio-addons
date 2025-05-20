@@ -1,6 +1,9 @@
 ## 0.3.0.0 (2025-05-20)
 
-Forked. Changed internal urls to point to this repository.
+Forked. 
+
+- Changed internal urls to point to this repository
+- Updated version number
 
 ## 0.2.0.4 (2024-02-07)
 
