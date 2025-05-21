@@ -1,4 +1,4 @@
-# Willow Application Server (JJ) - Home Assistant Add-on
+# Willow Application Server - Home Assistant Add-on
 
 This add-on allows you to run a [Willow Application Server](https://heywillow.io/components/willow-application-server/) on your Home Assistant instance.
 
