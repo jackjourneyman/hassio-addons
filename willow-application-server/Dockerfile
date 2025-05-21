@@ -10,12 +10,12 @@ ARG BACKEND_VERSION=0.2.0
 ARG FRONTEND_VERSION=0.2.0
 
 # Download WAS source code (checkout specified tag)
-RUN git clone https://github.com/HeyWillow/willow-application-server /app
+RUN git clone https://github.com/heywillow/willow-application-server /app
 RUN git fetch --all --tags
 RUN git checkout tags/$BACKEND_VERSION -b $BACKEND_VERSION
 
 # Download WAS admin panel UI (at specified tag)
-RUN wget https://github.com/HeyWillow/willow-application-server-ui/releases/download/$FRONTEND_VERSION/willow-application-server-ui.tar.gz
+RUN wget https://github.com/heywillow/willow-application-server-ui/releases/download/$FRONTEND_VERSION/willow-application-server-ui.tar.gz
 RUN mkdir -p /app/static/admin
 RUN tar --directory=/app/static/admin/ --strip-components=1 -xzf willow-application-server-ui.tar.gz
 RUN rm willow-application-server-ui.tar.gz
