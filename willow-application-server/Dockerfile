@@ -28,7 +28,7 @@ EXPOSE 8501
 EXPOSE 8502
 
 # Map volume for persistent data
-# VOLUME /config
+VOLUME /config
 
 # Copy and run entrypoint script
 COPY run.sh /
