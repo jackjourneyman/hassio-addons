@@ -1,3 +1,7 @@
+## 0.3.4 (2025-05-21)
+
+* Get source code from heywillow rather then toverainc
+
 ## 0.3.3 (2025-05-21)
 
 * Changed version to semantic versioning
