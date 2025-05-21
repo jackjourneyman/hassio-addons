@@ -1,6 +1,7 @@
 ## 0.3.3 (2025-05-21)
 
 * Changed version to semantic versioning
+* Added LICENSE.md
 
 ## 0.3.0.0 (2025-05-20)
 
