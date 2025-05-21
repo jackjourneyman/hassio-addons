@@ -1,6 +1,5 @@
-## 0.3.2 (2025-05-21)
+## 0.3.3 (2025-05-21)
 
-* Removed persistent storage mapping to /config
 * Changed version to semantic versioning
 
 ## 0.3.0.0 (2025-05-20)
